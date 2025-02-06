@@ -33,4 +33,4 @@ b.	Tangani kasus ketika pengguna memasukkan nilai yang tidak valid atau kosong.
 a.	Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox.
 b.	Berikan pesan kesalahan yang jelas jika terjadi pembagian dengan nol atau kesalahan lainnya.
 
-![kalkulator](https://github.com/user-attachments/assets/83ce4d9a-6026-4dd2-a903-907a4930de81)
+![klku](https://github.com/user-attachments/assets/02f653f2-2d58-40a0-b3d0-a03425ccca87)
